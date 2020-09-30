@@ -24,4 +24,4 @@ I have decided to present this blog in a simple and elegant way, using mostly bl
 
 When it comes to the logo, I have taken inspiration from the very famous Chanel logo which is composed with two opposite-facing and interlocking C’s. I have decided to keep to the same font as in my heading photo to keep the theme.
 
-I am excited to learn more of the typography existing in the fashion world, and I hope you enjoy reading it as much as I will enjoy writing it!
+> I am excited to learn more of the typography existing in the fashion world, and I hope you enjoy reading it as much as I will enjoy writing it!
