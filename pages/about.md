@@ -20,7 +20,7 @@ I am not a typical fashion girl, but I find the industry very interesting, which
 
 ![](../uploads/about.jpg)
 
-I have decided to present this blog in a simple and elegant way, using mostly black and white design. The typography I have decided to use myself are inspired by the fonts used in fashion. In my heading photo and logo, I have used the same font as they use on the cover of *Vogue.* Not only because it is featured on one of the world’s biggest fashion magazines, but because I personally really like it and think it represents fashion. The serifs along with the mix of thick and thin lines, makes the typography look simple, but elegant. Also reflecting the saying ‘less is more’ which is often used in the fashion industry.
+I have decided to present this blog in a simple and elegant way, using mostly black and white design. The typography I have decided to use myself are inspired by the fonts used in fashion. In my heading photo and logo, I have used the same font they use on the cover of *Vogue.* Not only because it is featured on one of the world’s biggest fashion magazines, but because I personally really like it and I think it represents fashion. The serifs along with the mix of thick and thin lines, makes the typography look simple, but elegant. Also reflecting the saying ‘less is more’ which is often used in the fashion industry.
 
 When it comes to the logo, I have taken inspiration from the very famous Chanel logo which is composed with two opposite-facing and interlocking C’s. I have decided to keep to the same font as in my heading photo to keep the theme.
 
