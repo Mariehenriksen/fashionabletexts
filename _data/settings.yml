@@ -8,5 +8,5 @@ logo: ../uploads/logo.jpg
 favicon: ../uploads/android-chrome-192x192.png
 gridlayout: false
 fixednavbar: false
-upzoom: true
+upzoom: false
 items: []
