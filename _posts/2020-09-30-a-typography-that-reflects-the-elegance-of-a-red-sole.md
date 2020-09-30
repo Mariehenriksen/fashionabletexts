@@ -2,7 +2,7 @@
 layout: post
 title: A typography that reflects the elegance of a red sole
 date: 2020-09-28T12:41:56.658Z
-header_feature_image: ../uploads/methode-times-prodmigration-web-bin-6dfe13ac-db5e-38d8-9677-719ee18b0b95.jpg
+header_feature_image: ../uploads/191002-mytheresa-fa-m-01-louboutin-0188-rgb.jpg
 comments: true
 ---
 
