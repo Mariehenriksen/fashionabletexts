@@ -27,7 +27,7 @@ Along with the handwritten font, the brand also uses a serif font. The use of se
 
 Using the combination of the two different fonts makes Louboutin different from other fashion brands, and is, on the same level as the red soles, giving the brand a statement.
 
-![](../uploads/img_0747.jpg)
+![]()
 
 #### **References**
 
