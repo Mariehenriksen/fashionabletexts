@@ -27,7 +27,7 @@ Along with the handwritten font, the brand also uses a serif font. The use of se
 
 Using the combination of the two different fonts makes Louboutin different from other fashion brands, and is, on the same level as the red soles, giving the brand a statement.
 
-## **References**
+#### **References**
 
 Biography. 2020. *Christian Louboutin*. \[online] Available at: <https://www.biography.com/fashion-designer/christian-louboutin?fbclid=IwAR3KHWWuQv6bUerdL6sIPJYfkJ2FV-CRSM_C2EuMaGvsv8YHw1PWBE9crEk> \[Accessed 30 September 2020].
 
