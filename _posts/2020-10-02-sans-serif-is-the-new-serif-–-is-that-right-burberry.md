@@ -17,9 +17,9 @@ Over the past few years, Burberry has not been the only established fashion desi
 
 ![](../uploads/sansmania.jpg)
 
-Along with the fashion brands who already has a sans serif typography.
 
-![](../uploads/1-jvangsrphj09kuaktpa6uq.jpeg)
+
+![]()
 
 Fashion is changing and so is its typography. It seems like designers want their brand to be seen as modern, more approachable and friendly, and by using sans serif fonts they are conveying that message.
 
