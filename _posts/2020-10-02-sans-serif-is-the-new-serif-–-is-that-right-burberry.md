@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sans serif is the new serif – is that right Burberry?
+title: Sans serif is the new serif – are you sure about that Burberry?
 date: 2020-10-02T11:14:54.868Z
 header_feature_image: ../uploads/ee53b0da2cb81e26e555e1187c63bc2b.jpg
 comments: true
