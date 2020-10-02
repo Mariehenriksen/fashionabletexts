@@ -25,7 +25,7 @@ So, to answer the question I asked in the beginning; does Burberry’s new typog
 
 In my opinion it really depends. If they are trying to change their brand to something that is a more friendly and relatable, then I would say yes. But, if they want to convey something classic, elegant, traditional and historic, I think their old typography would have represented them better.
 
-![](../uploads/img_0747.jpg)
+![]()
 
 #### References
 
