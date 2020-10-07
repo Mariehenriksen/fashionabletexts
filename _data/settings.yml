@@ -3,7 +3,7 @@ description: ""
 header_text: ""
 footer_text: Copyright 2020 Marie Henriksen
 header_feature_image: ../uploads/yes.jpg
-bannerheight: 50vmax
+bannerheight: 40vmax
 logo: ../uploads/fashionable-letters-logo.jpg
 favicon: ../uploads/android-chrome-192x192.png
 gridlayout: false
