@@ -12,7 +12,7 @@ show: true
 ---
 #### **About me**
 
-My name is Marie, and I am currently a second-year student at Oxford Brookes University studying Media Journalism and publishing. I am from the wonderful country Norway (I am very proud of that fact). I like travelling and travel journalism is something I would very much like to explore. Along with travelling and exploring the world, I like being out in the nature, and would definitely describe myself as an adventurous girl.
+My name is Marie, and I am currently a second-year student at Oxford Brookes University studying Media Journalism and publishing.
 
 #### **About this blog**
 
@@ -24,14 +24,12 @@ I have decided to present this blog in a simple and elegant way, using mostly bl
 
 ### My logo
 
-![](../uploads/fashionable-letters-logo.jpg)
+![](../uploads/skjermbilde-2020-10-07-kl.-15.54.49.png)
 
 When it comes to the logo, I have taken inspiration from several typographical fashion logos.
 
-![](../uploads/logossss.jpg)
+![](../uploads/untitled-4.jpg)
 
 I have decided to keep my logo very simple with just two black letters representing “Fashionable Letters.” I have used the same typography as in my heading photo to keep the theme. While it may look like just two black letters placed beside each other, it is carefully thought through which you can see in the illustration below.
 
-![](../uploads/logofl.jpg)
-
-> I am excited to learn more of the typography existing in the fashion world, and I hope you enjoy reading it as much as I will enjoy writing it!
+![](../uploads/skjermbilde-2020-10-07-kl.-15.55.18.png)
