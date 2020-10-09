@@ -28,8 +28,8 @@ When it comes to the logo, I have taken inspiration from several typographical f
 
 ![](../uploads/untitled-5.jpg)
 
-I have decided to keep my logo very simple with just two black letters representing “Fashionable Letters." Since I have taken inspiration from other fashion logos, I have decided to keep the same colour for the my “FL” logo, as they have used in theirs, which is the colour black (see picture above). While black can be associated with several things, some of them are: sophistication, trustworthy and success. I want my blog to convey the feeling of quality and trustworthy, and the use of black in my logo helps bring that out. I have used the same typography as in my heading photo to keep the theme. While it may look like just two black letters placed beside each other, it is carefully thought through which you can see in the illustration below.
+I have decided to keep my logo very simple with just two black letters representing “Fashionable Letters." Since I have taken inspiration from other fashion logos, I have decided to keep the same colour for the my “FL” logo, as they have used in theirs, which is the colour black (see picture above). While black can be associated with several things, some of them are: sophistication, trustworthy and success. I want my blog to convey the feeling of quality and trustworthy, and the use of black in my logo helps bring that out. I have used the same typography as in my heading photo to keep the theme. 
 
-
+While it may look like just two black letters placed beside each other, it is carefully thought through which you can see in the illustration below.
 
 ![](../uploads/skjermbilde-2020-10-07-kl.-16.04.36.png)
