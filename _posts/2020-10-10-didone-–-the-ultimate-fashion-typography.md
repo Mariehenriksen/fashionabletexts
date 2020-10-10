@@ -17,7 +17,7 @@ A very important aspects of Didone is the contrast between the thick and thin li
 
 Two very famous fashion magazines using the Didone typography are Vogue and Harper’s Bazaar. Because of its radical thick-thin structure, words set in Didone fonts can be seen as a typographical veil over photography, which makes them particularly useful for magazine covers.
 
-![](../uploads/sized-vogue.jpg)
+![](../uploads/bazaar-covers-2016-1.jpg)
 
 > “We used Didot because it’s very feminine, not because of the magazine’s history. When we started at *Bazaar* things were very elegant and the direction of the magazine was about elegance.”
 
@@ -26,7 +26,5 @@ The Didone style has never really gone out of style because it is pretty much sy
 ![](../uploads/dior-logo-2018.jpg)
 
 The typeface is used in the major fashion magazines around the world, along with other luxurious fashion brands. It is seen as a luxurious and elegant type and can be described as the synonym of fashionable typography. **Does that make the Didone typeface the ultimate fashion typography?**
-
-
 
 #### **References**
