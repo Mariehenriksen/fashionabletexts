@@ -21,8 +21,6 @@ Two very famous fashion magazines using the Didone typography are Vogue and Harp
 
 > “We used Didot because it’s very feminine, not because of the magazine’s history. When we started at *Bazaar* things were very elegant and the direction of the magazine was about elegance.”
 
-
-
 The Didone style has never really gone out of style because it is pretty much synonymous with elegant and sophisticated type design. It is not only Vogue and Harper’s Bazaar using the fashionable typography. Along with major fashion magazines, luxury brands such as Cartier and Christian Dior use Didone typefaces for their logo.
 
 ![](../uploads/dior-logo-2018.jpg)
