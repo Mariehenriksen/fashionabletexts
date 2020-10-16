@@ -2,6 +2,7 @@
 layout: post
 title: The typographic history of Harper’s Bazaar
 date: 2020-10-16T15:23:47.834Z
+header_feature_image: ../uploads/bazaar-covers-2016-1.jpg
 comments: true
 ---
 A well-known, and established fashion magazine. Harper’s Bazaar is not only known for being one of the earliest established fashion magazines in the world, they are known for the iconic typeface they have used on their covers. But the Didot typeface has not been a part of the magazine since their start in 1867.
@@ -66,7 +67,7 @@ And then came Karen Betts, a young editor who within the first four months compl
 
 ![](../uploads/karen-betts.png)
 
-A very basic sans serif font. If I were to guess, I would say she tried to make the magazine look modern as that is often associated with sans serif. However, Harper’s Bazaar is a well-established, classic magazine known for its Didot typeface (read this to learn about Didot). Betts was dismissed after a poor response on the change.
+A very basic sans serif font. If I were to guess, I would say she tried to make the magazine look modern as that is often associated with sans serif. However, Harper’s Bazaar is a well-established, classic magazine known for its Didot typeface ([read this to learn about Didot](https://fashionable-letters.netlify.app/2020/10/10/didone-the-ultimate-fashion-typography/)). Betts was dismissed after a poor response on the change.
 
 ### **2020**
 
@@ -77,6 +78,8 @@ After the disaster in 1999, the magazine went back to their classic Didot typefa
 Glenda Bailey, editor of Harper’s Bazaar said:
 
 > “It is Didot Caps, Didot Italics and also an introduction of Gotham”
+
+#### ...
 
 #### References
 
