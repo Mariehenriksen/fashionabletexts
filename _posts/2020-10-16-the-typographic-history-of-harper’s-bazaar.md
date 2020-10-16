@@ -4,8 +4,6 @@ title: The typographic history of Harper’s Bazaar
 date: 2020-10-16T15:23:47.834Z
 comments: true
 ---
-
-
 A well-known, and established fashion magazine. Harper’s Bazaar is not only known for being one of the earliest established fashion magazines in the world, they are known for the iconic typeface they have used on their covers. But the Didot typeface has not been a part of the magazine since their start in 1867.
 
 ### **1867 – 1889**
@@ -82,7 +80,7 @@ Glenda Bailey, editor of Harper’s Bazaar said:
 
 #### References
 
-2017. *150 Years Of Cover Design: Harper's Bazaar*. Anglia Ruskin University. Available at: <https://www.yumpu.com/en/document/read/58209836/150-years-of-cover-design-harpers-bazaar>
+*150 Years Of Cover Design: Harper's Bazaar*. Anglia Ruskin University. Available at: <https://www.yumpu.com/en/document/read/58209836/150-years-of-cover-design-harpers-bazaar>
 
 Penney, M., 2016. *Type History: Cassandre's Art Deco Type - Notes On Design*. \[online] Sessions College. Available at: <https://www.sessions.edu/notes-on-design/type-in-history-cassandres-art-deco-type/> \[Accessed 16 October 2020].
 
