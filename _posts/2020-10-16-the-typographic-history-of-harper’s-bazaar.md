@@ -2,7 +2,7 @@
 layout: post
 title: ". . . "
 date: 2020-10-16T15:23:47.834Z
-header_feature_image: ../uploads/baz.jpg
+header_feature_image: ../uploads/img_0781.jpg
 comments: true
 ---
 A well-known, and established fashion magazine. Harper’s Bazaar is not only known for being one of the earliest established fashion magazines in the world, they are known for the iconic typeface they have used on their covers. But the Didot typeface has not been a part of the magazine since their start in 1867.
