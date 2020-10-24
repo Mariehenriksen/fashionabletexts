@@ -2,7 +2,7 @@
 layout: post
 title: Didone - the ultimate fashion typography?
 date: 2020-10-10T10:33:02.230Z
-header_feature_image: ../uploads/img_0791-kopi.jpg
+header_feature_image: ../uploads/hjhjh.jpg
 comments: true
 ---
 When going to a store to look for a magazine, the first thing you see is their amazing cover with a beautiful model and the name of the magazine. And, high-end magazines all have one thing in common – they love a beautiful serif font. It makes fashion titles look elegant, timeless and luxurious. The most popular typography used on fashion magazines is serif fonts such as Bodoni or Didot, more specifically, the **Didone.**
