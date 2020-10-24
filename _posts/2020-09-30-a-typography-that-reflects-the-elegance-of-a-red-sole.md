@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "                                                                                        \
-  . . . "
+title: "A typography that reflects the elegance of a red
+  sole                                                   "
 date: 2020-09-28T12:41:56.658Z
-header_feature_image: ../uploads/img_0782.jpg
+header_feature_image: ../uploads/img_0788.jpg
 comments: true
 ---
 The red sole made Christian Louboutin’s shoes famous, and are worn by several celebrities such as Madonna, Victoria Beckham and the Kardashian sisters. The shoes are on the wish list of many, but unless you have between $400 and $6000 to spend on shoes, they will most likely just stay a dream.
