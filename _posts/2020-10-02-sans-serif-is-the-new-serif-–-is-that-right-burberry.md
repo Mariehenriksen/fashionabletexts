@@ -2,7 +2,7 @@
 layout: post
 title: Sans serif is the new serif - are you sure about that Burberry?
 date: 2020-10-24T13:03:32.573Z
-header_feature_image: ../uploads/b2e5c730-9450-41ec-976a-dc28b500310c.png
+header_feature_image: ../uploads/2f57b07e-a85b-4da3-89c8-25933ea3d5d8.png
 comments: true
 ---
 Established in 1856, Burberry has a history of providing polar explorers and the army in both first and second world war with trench coats. In 1901 Burberry got their first logo, the Equestrian Knight, which got the text “Burberry” added underneath it in 1999 with a recognizable serif font. People knew the brand based on the Equestrian Knight and the classic serif font. However, in 2018, the typography changed and the Equestrian Knight is taken away. Does the new typography really fit the brand?
