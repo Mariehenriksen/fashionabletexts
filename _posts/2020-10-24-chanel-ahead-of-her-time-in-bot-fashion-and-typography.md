@@ -7,11 +7,7 @@ comments: true
 ---
 She has been described as a fashion icon ahead of her time. She was the first one to stop following fashion tendencies. Uncomfortable corsets, dull lacing, enormous hats and pretentious jewelry were long forgotten. Coco Chanel simply placed firm elegance against ever-changing fashion designs. Not only did she become famous for her designs, the typography has become just as famous as ‘the little black dress’.
 
-
-
-> "In order to be irreplaceable one must always be different."  - Chanel
-
- 
+> "In order to be irreplaceable one must always be different."  - Coco Chanel
 
 Let us take a look at the logo first. It is made up of two interlaced Cs who are placed against each other. The logo has become the symbol of high fashion, and was designed by Coco Chanel herself. 
 
