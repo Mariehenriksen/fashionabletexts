@@ -9,4 +9,6 @@ favicon: ../uploads/favicon-32x32.png
 gridlayout: false
 fixednavbar: false
 upzoom: false
-items: []
+items:
+  - name: About Me
+    siteurl: /aboutme
