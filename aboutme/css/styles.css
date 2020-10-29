@@ -48,15 +48,13 @@ font-family: serif;
 max-width: 200px;
 border: 5px solid #555;
 align-items: center;
-margin-left: 10px;
-margin-right: 10px;
+
 }
 .meeg {
 max-width: 200px;
 border: 5px solid #555;
 align-items: center;
-margin-left: 10px;
-margin-right: 10px;
+
 }
           .facts h1{
           color: #97b9d6;
@@ -102,7 +100,7 @@ margin-right: 10px;
             .fun-fact h2{
               color: white;
               font-size: 30px;
-              padding: 0,0,0,0;
+              padding-top: 70px;
             }
 .blog p{
 color: white;
