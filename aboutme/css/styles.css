@@ -6,6 +6,7 @@ background-repeat: no-repeat;
 background-size: cover;
 background-attachment: fixed;
 background-position: center;
+width: 100%
 }
 
 .box-img {
@@ -44,14 +45,14 @@ color: white;
 font-family: serif;
 }
 .baby {
-max-width: 300px;
+max-width: 250px;
 border: 5px solid #555;
 align-items: center;
 margin-left: 10px;
 margin-right: 10px;
 }
 .meeg {
-max-width: 300px;
+max-width: 250px;
 border: 5px solid #555;
 align-items: center;
 margin-left: 10px;
@@ -65,14 +66,14 @@ margin-right: 10px;
           }
           .facts p{
           color: white;
-          font-size: 22px;
+          font-size: 19px;
           font-family: serif;
-          text-align: justify;
+          text-align: left;
 
           max-width: 760px;
-          margin: 40px auto 80px auto;
+          margin: 40px auto 30px auto;
           padding: 0 20px 0 20px;
-          line-height: -2px;
+          line-height: -2.5px;
           }
 
           .facts h2{
@@ -89,7 +90,7 @@ margin-right: 10px;
           }
           .fun-fact p{
             color: white;
-            font-size: 22px;
+            font-size: 19px;
             font-family: serif;
             text-align: center;
 
@@ -105,16 +106,17 @@ margin-right: 10px;
             }
 .blog p{
 color: white;
-font-size: 22px;
+font-size: 19px;
 font-family: serif;
-text-align: justify;
+text-align: left;
+line-height: 2.5px;
 }
 .blog h2{
   color: white;
   font-size: 20px;
 }
 .friends{
-max-width: 300px;
+max-width: 200px;
 align-items: center;
 }
 .book img{
@@ -140,12 +142,12 @@ max-width: 50px;
 align-items: center;
 }
 .scuba {
-max-width: 300px;
+max-width: 250px;
 align-items: center;
 border: 5px solid #555;
 }
 .nemo {
-max-width: 300px;
+max-width: 250px;
 align-items: center;
 border: 5px solid #555;
 }
@@ -174,41 +176,53 @@ margin-top: 7px;
 opacity: 0.5;
 }
 .daria {
-max-width: 300px;
+max-width: 200px;
 border: 5px solid #555;
 align-items: center;
 margin-top: 10px;
 }
 
     .vidar{
-      max-width: 300px;
+      max-width: 200px;
       border: 5px solid #555;
     align-items: center;
     margin-top: 10px;
     }
 
 .storm{
-  max-width: 300px;
+  max-width: 200px;
   border: 5px solid #555;
 align-items: center;
 margin-top: 10px;
 }
 
     .ox{
-      max-width: 300px;
+      max-width: 200px;
       border: 5px solid #555;
     align-items: center;
     margin-top: 10px;
     }
 
 .nusfjord{
-  max-width: 300px;
+  max-width: 200px;
   border: 5px solid #555;
 align-items: center;
 margin-top: 10px;
 }
 .sol{
-  max-width: 300px;
+  max-width: 200px;
+  border: 5px solid #555;
+align-items: center;
+margin-top: 10px;
+}
+.london{
+  max-width: 200px;
+  border: 5px solid #555;
+align-items: center;
+margin-top: 10px;
+}
+.boat{
+  max-width: 200px;
   border: 5px solid #555;
 align-items: center;
 margin-top: 10px;
@@ -245,11 +259,4 @@ margin-bottom: 10%;
   border: black 2px solid;
   border-radius: 5px;
   padding: 10px 20px 10px 20px;
-}
-.copyright{
-color: white;
-margin-left: 535px;
-
-
-
 }
