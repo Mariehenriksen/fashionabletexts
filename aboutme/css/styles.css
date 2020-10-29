@@ -1,7 +1,255 @@
 body {
-
+margin: 0;
+padding: 0;
+background-image:url("../pictures/reinebringen.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+background-position: center;
 }
 
-h1 {
-  
+.box-img {
+width: 200px;
+height: 200px;
+margin: auto;
+border-radius: 50%;
+border: 3px solid #555;
+}
+
+
+.box{
+width: 300px;
+background: rgba(0, 0, 0, 0.5);
+padding: 40px;
+text-align: center;
+margin-left: auto;
+margin-right: auto;
+margin-top: 8%;
+color: white;
+font-family: serif;
+}
+.intro{
+text-align: center;
+}
+.box-big{
+width: auto;
+background: rgba(0, 0, 0, 0.7);
+padding: 50px;
+text-align: center;
+margin-left: 5%;
+margin-right: 5%;
+margin-top: 8%;
+margin-bottom: 5%;
+color: white;
+font-family: serif;
+}
+.baby {
+max-width: 300px;
+border: 5px solid #555;
+align-items: center;
+margin-left: 10px;
+margin-right: 10px;
+}
+.meeg {
+max-width: 300px;
+border: 5px solid #555;
+align-items: center;
+margin-left: 10px;
+margin-right: 10px;
+}
+          .facts h1{
+          color: #97b9d6;
+          font-family: serif;
+          font-size: 50px;
+          font-weight: bold;
+          }
+          .facts p{
+          color: white;
+          font-size: 22px;
+          font-family: serif;
+          text-align: justify;
+
+          max-width: 760px;
+          margin: 40px auto 80px auto;
+          padding: 0 20px 0 20px;
+          line-height: -2px;
+          }
+
+          .facts h2{
+          color: #97b9d6;
+          font-family: serif;
+          font-size: 35px;
+          }
+          .facts h3{
+            color: #97b9d6;
+            font-family: serif;
+            font-size: 25px;
+            margin-top: 60px;
+
+          }
+          .fun-fact p{
+            color: white;
+            font-size: 22px;
+            font-family: serif;
+            text-align: center;
+
+            max-width: 760px;
+            margin: 5px auto 40px auto;
+            padding: 0 20px 0 20px;
+            line-height: -5px;
+            }
+            .fun-fact h2{
+              color: white;
+              font-size: 30px;
+              padding: 0,0,0,0;
+            }
+.blog p{
+color: white;
+font-size: 22px;
+font-family: serif;
+text-align: justify;
+}
+.blog h2{
+  color: white;
+  font-size: 20px;
+}
+.friends{
+max-width: 300px;
+align-items: center;
+}
+.book img{
+max-height:200px;
+align-items: center;
+  border: 5px solid #555;
+}
+.book img:hover{
+max-height:200px;
+align-items: center;
+  border: 5px solid #97b9d6;
+}
+.blog{
+  color: #97b9d6;
+	font-weight: bold;
+}
+.blog:hover{
+  color: white;
+	font-weight: bold;
+}
+.world {
+max-width: 50px;
+align-items: center;
+}
+.scuba {
+max-width: 300px;
+align-items: center;
+border: 5px solid #555;
+}
+.nemo {
+max-width: 300px;
+align-items: center;
+border: 5px solid #555;
+}
+.gaga{
+max-height: 200px;
+align-items: center;
+}
+.lady{
+  color: white;
+	font-weight: bold;
+}
+.lady:hover{
+  color: #d4afbf;
+	font-weight: bold;
+}
+.ekstra {
+  color: #d4afbf;
+  font-weight: bold;
+}
+.insta img{
+max-height:27px;
+align-items: center;
+margin-top: 7px;
+}
+.insta img:hover{
+opacity: 0.5;
+}
+.daria {
+max-width: 300px;
+border: 5px solid #555;
+align-items: center;
+margin-top: 10px;
+}
+
+    .vidar{
+      max-width: 300px;
+      border: 5px solid #555;
+    align-items: center;
+    margin-top: 10px;
+    }
+
+.storm{
+  max-width: 300px;
+  border: 5px solid #555;
+align-items: center;
+margin-top: 10px;
+}
+
+    .ox{
+      max-width: 300px;
+      border: 5px solid #555;
+    align-items: center;
+    margin-top: 10px;
+    }
+
+.nusfjord{
+  max-width: 300px;
+  border: 5px solid #555;
+align-items: center;
+margin-top: 10px;
+}
+.sol{
+  max-width: 300px;
+  border: 5px solid #555;
+align-items: center;
+margin-top: 10px;
+}
+
+
+.tell_me_link {
+	text-align: center;
+	color: white;
+	font-size: 15px;
+	font-weight: 300;
+	line-height: 70px;
+
+	padding: 0px;
+	margin: auto;
+	padding-bottom: 580px;
+	padding-top: 30px;
+}
+
+.tell_me_link a {
+  background: rgba(0, 0, 0, 1);
+padding: 10px 20px 10px 20px;
+border-radius: 5px;
+color: white;
+text-decoration: none;
+align-items: center;
+margin-top: 5%;
+margin-bottom: 10%;
+}
+
+.tell_me_link a:hover {
+  background: rgba(0, 0, 0, 0.0);
+  text-decoration: none;
+  border: black 2px solid;
+  border-radius: 5px;
+  padding: 10px 20px 10px 20px;
+}
+.copyright{
+color: white;
+margin-left: 535px;
+
+
+
 }
