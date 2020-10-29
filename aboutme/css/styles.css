@@ -45,14 +45,14 @@ color: white;
 font-family: serif;
 }
 .baby {
-max-width: 250px;
+max-width: 200px;
 border: 5px solid #555;
 align-items: center;
 margin-left: 10px;
 margin-right: 10px;
 }
 .meeg {
-max-width: 250px;
+max-width: 200px;
 border: 5px solid #555;
 align-items: center;
 margin-left: 10px;
@@ -142,12 +142,12 @@ max-width: 50px;
 align-items: center;
 }
 .scuba {
-max-width: 250px;
+max-width: 200px;
 align-items: center;
 border: 5px solid #555;
 }
 .nemo {
-max-width: 250px;
+max-width: 200px;
 align-items: center;
 border: 5px solid #555;
 }
