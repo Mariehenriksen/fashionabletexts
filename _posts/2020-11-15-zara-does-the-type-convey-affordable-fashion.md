@@ -2,6 +2,7 @@
 layout: post
 title: Zara - Does the type convey affordable fashion?
 date: 2020-11-15T09:36:11.938Z
+header_feature_image: ../uploads/img_0820.jpg
 comments: true
 ---
 Zara’s goal is to provide high-class fashion to the everyday consumer, which translate to; we are more likely to afford Zara than Chanel. I have had a look at the typography used in their logo to see if it conveys their goal.
